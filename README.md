@@ -1,5 +1,7 @@
 # JavaSeleniumTestNGMavenPageObject
-Page object model ui automation framework: Java, Selenium, TestNG, Maven, POM
+Page object model ui automation framework: Umbuntu OS, Eclipse, Java, Selenium, TestNG, Maven, Page Object Model
 
-***Make sure to update your driver path on your local sandbox
-***Example: System.setProperty("webdriver.gecko.driver", "/home/orblivion/Desktop/Automation/Drivers//geckodriver");
+***Make sure to update your web driver path on your local sandbox
+***Example: Ubuntu OS
+
+System.setProperty("webdriver.gecko.driver", "/home/orblivion/Desktop/Automation/Drivers//geckodriver");
