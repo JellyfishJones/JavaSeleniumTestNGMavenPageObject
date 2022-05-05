@@ -3,7 +3,7 @@ package test;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import page.SearchPage;
-import setup.ChromeSetup;
+import setup.FirefoxSetup;
 
 public class SearchTest extends FirefoxSetup {
 
