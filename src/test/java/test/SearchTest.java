@@ -30,3 +30,4 @@ public class SearchTest extends ChromeSetup {
 	}
 
 }
+
