@@ -36,3 +36,4 @@ public class SearchPage {
 		videoButton.click();
 	}
 }
+
