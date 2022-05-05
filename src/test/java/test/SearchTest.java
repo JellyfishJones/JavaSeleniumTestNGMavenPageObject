@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import page.SearchPage;
 import setup.ChromeSetup;
 
-public class SearchTest extends ChromeSetup {
+public class SearchTest extends FirefoxSetup {
 
 	SearchPage searchPage;
 
