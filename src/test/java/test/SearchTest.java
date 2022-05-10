@@ -18,13 +18,11 @@ public class SearchTest extends FirefoxSetup {
 	private void initialization() {
 	}
 
-	
 	@Test
 	//FF: launch duckduckgo > do search > click Image button > click Video button > close browser
-	public void ffDuckDuckGoSearchTest() throws InterruptedException {
-		System.out.println("FF: Start search > click button tests...");
+	public void ffDuckDuckGoSearchTest()  {
+		System.out.println("FF: goto duckduckgo.com > enter search data > click search > click image button > click video button...");
 		searchPage.duckduckgoSearch("Test123");
-		Thread.sleep(5000);
 		searchPage.searchImageButton();
 		searchPage.searchVideoButton();
 	}
