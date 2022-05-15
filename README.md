@@ -1,7 +1,7 @@
 # JavaSeleniumTestNGMavenPageObject
 Page object model ui automation framework: Umbuntu OS, Eclipse, Java, Selenium, TestNG, Maven, Page Object Model
 
-Setup + Configuration + Build and Run Options:
+#Setup + Configuration + Build and Run Options:
 1) Install Eclipse IDE on Ubuntu OS
 2) Download 64 bit Selenium web drivers: Chromium and Geckodriver
 3) Create new Maven Project in Eclipse IDE
